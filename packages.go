@@ -18,5 +18,5 @@ import (
 )
 
 func main() {
-	fmt.Println("My favorite nunber is", rand.Intn(10))
+	fmt.Println("My favorite number is", rand.Intn(10))
 }
